@@ -1,2 +1,2 @@
-# Sesli-Asistan-Voice-Asistan-
+# Sesli-Asistan-Voice-Asistan-(speech regonizer)
 talk to me
